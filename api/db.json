@@ -4,6 +4,42 @@
       "title": "Good stuff",
       "description": "Really nice to watch",
       "id": 1
+    },
+    {
+      "title": "Drams Stream",
+      "description": "This stream is for watching and talking drams. You hear me man?",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "Drams Stream",
+      "description": "This stream is for watching and talking drams. You hear me man?",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "New stream",
+      "description": "Who dis?",
+      "userId": "115645673772701552907",
+      "id": 4
+    },
+    {
+      "title": "New stream",
+      "description": "Who dis?",
+      "userId": "115645673772701552907",
+      "id": 5
+    },
+    {
+      "title": "Drams Stream",
+      "description": "This stream is for watching and talking drams. You hear me man?",
+      "userId": "115645673772701552907",
+      "id": 6
+    },
+    {
+      "title": "Drams Stream",
+      "description": "Really cool stuff happens here. Trust me!",
+      "userId": "115645673772701552907",
+      "id": 7
     }
   ]
 }
