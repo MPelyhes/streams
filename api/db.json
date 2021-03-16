@@ -2,8 +2,7 @@
   "streams": [
     {
       "title": "Good stuff",
-      "description": "Really nice to watch",
-      "userId": "115645673772701552907",
+      "description": "You will like watching this, if you like things that are good, you dig?",
       "id": 1
     },
     {
@@ -14,7 +13,7 @@
     },
     {
       "title": "New stream",
-      "description": "Who dis?",
+      "description": "Who dis? Is me!",
       "userId": "115645673772701552907",
       "id": 4
     },
